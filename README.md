@@ -1,7 +1,7 @@
 # NSTAR
 ========
 
-NSTAR  is  invented by  wilmix   jemin  j  in   JDollar P.L  for   DOTNET Platform
+NSTAR  is  invented by  wilmix   jemin  j focused  for remotewebapplication   in   JDollar P.L  for   DOTNET Platform.
 
 
 
@@ -34,3 +34,27 @@ Advantages:
 
 since  C# .exe  is no use  at all.
 
+
+Program-1:
+==========
+
+<DOTNET>
+
+
+
+
+public class index {
+
+<MAIN>
+   
+
+HTML.displayhtml("mob.html"); // this   statement  display mob.html contents.
+
+
+  </MAIN>
+}
+
+
+
+
+</DOTNET>
