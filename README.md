@@ -1,8 +1,7 @@
 # NSTAR
 ========
 
-NSTAR  is  invented by  wilmix   jemin  j focused  for remotewebapplication   in   JDollar P.L  for   DOTNET Platform.
-
+NSTAR Framework  is  invented by  wilmix jemin  j  at  Dotnet  and it is  the  best  Framework and  it  is   focused  on     Mobile  Webapplication  and  MobileApps  with  Dotnet frameworks,  and  it  has  Advanced Oops. It  also  supports obfuscation, Code Security, and it  is Learnable .
 
 
 SYNTAX:
@@ -28,11 +27,12 @@ SYNTAX:
 Advantages:
 ============
 
-> NStar  is   used only  in windows  platform.
+NStar is used only in windows platform.
 
-> NStar  also  executes  .exe of  VB.net ,VC++ files;
+NStar also executes .exe of VB.net ,VC++ , C#.exe files;
 
-since  C# .exe  is no use  at all.
+ NStar  is  learnable  Framework  that  is  JAVA or  DOTNET  professionals  can  follow  it.
+
 
 
 Program-1:
